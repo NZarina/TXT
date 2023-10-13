@@ -1,1 +1,11 @@
-
+Bug №: 	
+Severity:
+Priority:
+Title:
+Precondition:	
+Steps to reproduce:	
+Actual result:
+Expected result:	
+Reproduced by, Environment:
+Date:
+Attachments
