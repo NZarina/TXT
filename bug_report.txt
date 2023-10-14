@@ -1,4 +1,4 @@
-Bug №: 	
+Bug ID: 	
 Severity:
 Priority:
 Title:
@@ -6,6 +6,7 @@ Precondition:
 Steps to reproduce:	
 Actual result:
 Expected result:	
-Reproduced by, Environment:
+Tester:
+Environment:
 Date:
 Attachments
